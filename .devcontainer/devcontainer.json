@@ -1,0 +1,15 @@
+{
+    "name": "PDF Autocrop Toolkit",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "your-preferred-extensions-here"
+    ],
+    "forwardPorts": [],
+    "postCreateCommand": "",
+    "remoteUser": "root"
+}

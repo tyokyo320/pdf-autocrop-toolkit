@@ -1,0 +1,132 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20231208172914+09&apos;00&apos;
+InfoBegin
+InfoKey: Creator
+InfoValue: Microsoft&#174; PowerPoint&#174; &#36866;&#29992;&#20110; Microsoft 365
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20231208172914+09&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: Microsoft&#174; PowerPoint&#174; &#36866;&#29992;&#20110; Microsoft 365
+PdfID0: 886f6f4c7ffdfa4a8d2bdac19b975e3d
+PdfID1: 886f6f4c7ffdfa4a8d2bdac19b975e3d
+NumberOfPages: 13
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 1
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 2
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 3:  &#25968;&#20516;&#23455;&#39443; - &#12487;&#12540;&#12479;&#12475;&#12483;&#12488;
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 4
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 5:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 6:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 7:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 8
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 9
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 10:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 11:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 12:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: &#24187;&#28783;&#29255; 13:  &#25968;&#20516;&#23455;&#39443; &#8211; &#23455;&#39443;&#32080;&#26524; 
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 720 540
+PageMediaDimensions: 720 540
